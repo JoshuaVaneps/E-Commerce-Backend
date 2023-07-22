@@ -25,7 +25,7 @@ so that a company can compete with other e-commerce companies
   
   ## Usage Information 
   You can use this application completely through the terminal by installing node copying in the files sourcing and seeding with mysql and running node server.js.  
-  - [ Instructional video ](https://drive.google.com/file/d/1l8DRpUv8AlcBgHuX7bm4rGAdo4P8TQgn/view)
+  - [ Instructional video ](https://drive.google.com/file/d/1E4LcmRfuyNJG8JmTFZ2tuV8clW76nf83/view)
   
   ## Contribution Guidelines
   please make all changes through push and pull requests. your requests will be looked over and reviewed by the development team and if deemed useful will be added to the app. Thank you aheadof time for your contributions
